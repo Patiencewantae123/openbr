@@ -80,6 +80,4 @@ OpenBR is licensed under the **Apache License 2.0**. See the [LICENSE](https://g
 
 For questions or support, visit the **[OpenBR Community](http://openbiometrics.org/community/)**.  
 
---- 
 
-Let me know if you’d like further refinements! 😊
